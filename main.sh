@@ -6,7 +6,7 @@
 ##	2: config file has not read permission
 [ ! -f config ] && echo "Error: Can not find config	uration file" && exit 1
 [ ! -r config ] && echo "Error: Can not read configuration file" && exit 2
-./function.sh
+source ./function.sh
 
 # Read the backend and reverse proxy from the config file
 BACKEND=()
