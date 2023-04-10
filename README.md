@@ -41,4 +41,4 @@ The script is provided as-is, and there are some limitations and assumptions to 
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as long as you include the original license and copyright notice.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).. Feel free to use, modify, and distribute the code as long as you include the original license and copyright notice.
